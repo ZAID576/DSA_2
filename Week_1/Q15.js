@@ -1,4 +1,5 @@
 // Array and loop together
+// Q: Print all elements of an array using a loop
 
 let arr = [1,2,0,4,5]
 
