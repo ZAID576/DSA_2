@@ -2,9 +2,8 @@
 
 let arr = [2, -4, 6, -8, 10, -12];
 
-let count = 0;
-
 function countNegatives(arr) {
+  let count = 0;
   for (let i = 0; i < arr.length; i++) {
     if (arr[i] < 0) {
       count++;
@@ -14,6 +13,6 @@ function countNegatives(arr) {
 }
 
 let result = countNegatives(arr);
-console.log(result)
+console.log(result);
 
 // console.log(countNegatives(arr));
