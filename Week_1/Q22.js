@@ -1,5 +1,8 @@
 // Find Second Largest number in an array
 
+
+let arr = [4, 9, 0, 12, 10, 8, 7, 1];
+
 function secondLargest(arr) {
     let firstLargest = -Infinity;
     let secondLargest = -Infinity;
@@ -17,8 +20,6 @@ function secondLargest(arr) {
     return secondLargest;
 }
 
-let arr = [4, 9, 0, 12, 10, 8, 7, 1];
 
 let result = secondLargest(arr);
-
 console.log(result);
