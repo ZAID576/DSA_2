@@ -1,5 +1,5 @@
 // Patterns Problems
-// Q7: Reverse number triangle
+// Q8: Reverse number triangle
 
 let n = 5;
 
