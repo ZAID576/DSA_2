@@ -3,7 +3,7 @@
 function isPalindromeNumber(num) {
   if (num < 0) {
     return false;
-  }                  // "Negative Edge case handling"
+  }                                       // "Negative Edge case handling"
 
   let n = num;
   let r = 0;
