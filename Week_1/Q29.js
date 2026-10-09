@@ -12,6 +12,8 @@ for (let i = 0; i < n; i++) {
   console.log(row);
 }
 
+
+
 // 2nd way [This code will give the similar output as above code but this code is written in a little different way]
 
 for (let i = 0; i < 4; i++) {
